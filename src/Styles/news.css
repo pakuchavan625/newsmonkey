@@ -1,0 +1,27 @@
+/* .container{
+   margin-left: 16%;
+ 
+
+} */
+/* .header{
+    color:red;
+    margin-left: 16%!important;
+    text-transform: capitalize;
+    text-decoration: underline;
+} */
+
+
+
+
+
+
+
+@media only screen and (max-width:600px){
+    .container{
+        margin-left: 75px;
+        width: 80%;
+    }.buttons{
+       margin-left: 20px; 
+     
+    }
+}
